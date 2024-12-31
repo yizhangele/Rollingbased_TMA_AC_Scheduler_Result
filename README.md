@@ -3,7 +3,7 @@
 This scheduler is a closed-loop framework to provide conflict-free routing and scheduling solutions for Terminal Manoeuvring Area (TMA) multi-aircraft, with the aim to smooth the landing process and reduce the TMA congestion.
 
 For more details, please find from paper: "Rolling-horizon-based TMA multiple flights routing
-and scheduling considering travel uncertainty", submitted to Fifteenth USA/Europe Air Traffic Management Research and Development Seminar (ATM2025)
+and scheduling considering travel uncertainty", planning to submit to Fifteenth USA/Europe Air Traffic Management Research and Development Seminar (ATM2025).
 
 ## Repository structure
 
